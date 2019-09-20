@@ -4,7 +4,7 @@
 	"description": "Some type of project",
 	"keywords": [ "freecodecamp", "new", "first", "test" ], 
 	"license": "KYS",
-	"version": "6.9.0",
+	"version": "6.9",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
