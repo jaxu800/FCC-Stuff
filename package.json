@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Jason Xu <jasonxu1@asu.edu>",
 	"description": "Some type of project",
-	"keywords": [ "freecodecamp", "new", "first", "test" ], 
+	"keywords": ["freecodecamp", "new", "first", "test"], 
 	"dependencies": {
 		"express": "^4.14.0"
 	},
