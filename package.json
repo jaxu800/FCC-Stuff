@@ -3,6 +3,7 @@
 	"author": "Jason Xu <jasonxu1@asu.edu>",
 	"description": "Some type of project",
 	"keywords": ["freecodecamp", "new", "first", "test"], 
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
