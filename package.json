@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Jason Xu <jasonxu1@asu.edu>",
+	"description": "Some type of project",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
